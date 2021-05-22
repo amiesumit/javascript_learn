@@ -1,2 +1,2 @@
-# javascript_learn
-Testing how git works
+# Learning Java Script
+
